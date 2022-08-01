@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  background-color: #3670B8;
+}
+
+#submit {
+  width: 30%
+}
+
+#FeedBack {
+  font-size: large;
+}
+
+#help {
+  color: #82C341;
 }
 
 .App-logo {
